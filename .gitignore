@@ -1,0 +1,12 @@
+# secrets and build output: never commit
+keys/
+*.jks
+*.keystore
+*.p12
+*.pem
+out/
+.repo/
+.gradle/
+build/
+local.properties
+*.apk

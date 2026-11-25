@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VictorRecovery</string>
+    <string name="tagline">Companion app (experimental skeleton)</string>
+    <string name="warning">Untested. Nothing here has been tested on a device. Flashing can brick your phone and needs an unlocked bootloader, which erases all data.</string>
+</resources>

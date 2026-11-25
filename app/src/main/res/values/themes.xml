@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.VictorRecovery" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/vr_cyan</item>
+        <item name="colorPrimaryDark">@color/vr_background</item>
+        <item name="colorAccent">@color/vr_magenta</item>
+        <item name="android:windowBackground">@color/vr_background</item>
+        <item name="android:statusBarColor">@color/vr_background</item>
+        <item name="android:navigationBarColor">@color/vr_background</item>
+        <item name="android:textColor">@color/vr_cyan</item>
+    </style>
+</resources>
